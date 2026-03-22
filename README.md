@@ -10,3 +10,5 @@ I am a student currently pursuing my degree. I am interested in learning program
 
 ## Goal
 I want to learn new technologies and build useful projects.
+## Digital Literacy Quiz
+[Click here to attempt the quiz](https://docs.google.com/forms/d/e/1FAIpQLSf8D9V7OJ0wRCHNSnxTy32GIK43sN2SJe2oRMEdE_ahCcQCDg/viewform?usp=header)
