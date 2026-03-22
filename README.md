@@ -1,4 +1,4 @@
-# MUMMADI NAGESHWAR REDDT
+# MUMMADI NAGESHWAR REDDY
 
 ## About Me
 I am a student currently pursuing my degree. I am interested in learning programming and improving my digital skills.
